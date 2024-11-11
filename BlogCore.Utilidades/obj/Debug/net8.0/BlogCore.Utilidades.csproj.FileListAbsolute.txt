@@ -9,3 +9,15 @@ C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore
 C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
 C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
 C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.deps.json
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.sourcelink.json
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll

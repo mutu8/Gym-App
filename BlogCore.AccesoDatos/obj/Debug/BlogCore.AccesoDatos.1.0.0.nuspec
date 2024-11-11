@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BlogCore.AccesoDatos</id>
+    <version>1.0.0</version>
+    <authors>BlogCore.AccesoDatos</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="12e58a2f782fed6dc058d503cf73c8dbc16b2f90" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BlogCore.Models" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="BlogCore.Utilidades" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.runtimeconfig.json" target="lib\net8.0\BlogCore.AccesoDatos.runtimeconfig.json" />
+    <file src="C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.dll" target="lib\net8.0\BlogCore.AccesoDatos.dll" />
+  </files>
+</package>

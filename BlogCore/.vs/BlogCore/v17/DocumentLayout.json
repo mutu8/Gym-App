@@ -1,121 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\steven\\downloads\\aaaaaaaa\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\steven\\downloads\\aaaaaaaa\\blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\steven\\downloads\\aaaaaaaa\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\steven\\downloads\\aaaaaaaa\\blogcore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\steven\\downloads\\aaaaaaaa\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{380F8525-28A7-42BE-859B-62C387238B70}|..\\BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\steven\\downloads\\aaaaaaaa\\blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-10T16:07:56.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T18:51:33.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T18:50:47.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T18:45:58.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T18:45:54.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "..\\BlogCore.Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\Categoria.cs",
-              "RelativeToolTip": "..\\BlogCore.Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T18:44:15.468Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

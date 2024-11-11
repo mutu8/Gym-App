@@ -13,6 +13,7 @@ namespace BlogCore.Data
 
         //Modelos  que se vayan creando
         public DbSet<Categoria> Categoria { get; set; }
+        public DbSet<Articulo> Articulo { get; set; }
 
     }
 }

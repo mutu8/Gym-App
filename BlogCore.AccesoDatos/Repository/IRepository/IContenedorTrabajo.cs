@@ -10,6 +10,7 @@ namespace BlogCore.AccesoDatos.Repository.IRepository
     {
         //Aqui se declaran los repositorios que se van a utilizar
         ICartegoriaRepository Categoria { get; }
+        IArticuloRepository Articulo { get; }
         void Save(); 
 
 
