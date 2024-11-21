@@ -1,0 +1,69 @@
+﻿@model BlogCore.Models.Slider
+
+@{
+    ViewData["Title"] = "Editar slider";
+}
+
+<br />
+<br />
+<h3 class="text-center mb-4">Editar slider</h3>
+<form method="POST" asp-action="Edit" enctype="multipart/form-data">
+
+    <!--Enviar ID-->
+    <input type="hidden" asp-for="Id" />
+
+    <div class="row px-4 py-3 offset-1 border rounded">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row mb-4">
+                <div class="col-4">
+                    <label asp-for="Nombre" class="form-label"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Nombre" class="form-control" placeholder="Ingresa el nombre de slider" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-4">
+                <div class="col-4">
+                    <label asp-for="Estado" class="form-label"></label>
+                </div>
+                <div class="col-8">
+                    <input type="checkbox" asp-for="Estado" />
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-4">
+                <div class="col-4">
+                    <label asp-for="urlImagen" class="form-label"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+                    <span asp-validation-for="urlImagen" class="text-danger"></span>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Contenedor para imagen y botones -->
+        <div class="col-12 d-flex flex-column justify-content-center align-items-center pt-4">
+            <!-- Botones alineados debajo de la imagen -->
+            <div class="d-flex justify-content-center gap-3 mt-4">
+                <button type="submit" class="btn btn-primary px-4 py-2">Editar slider</button>
+                <a asp-action="Index" class="btn btn-success px-4 py-2">Volver atrás</a>
+            </div>
+            <br />
+            <!-- Imagen centrada -->
+            <img src="@Model.urlImagen" width="300px" style="border-radius: 5px; border: 1px solid #bbb9b9; max-width: 100%; padding: 10px;" />
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

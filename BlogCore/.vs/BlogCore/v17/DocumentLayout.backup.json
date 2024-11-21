@@ -3,16 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\areas\\admin\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\wwwroot\\js\\articulos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:wwwroot\\js\\articulos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{380F8525-28A7-42BE-859B-62C387238B70}|..\\BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore.models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +21,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "articulos.js",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\js\\articulos.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\articulos.js",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\js\\articulos.js",
-              "RelativeToolTip": "wwwroot\\js\\articulos.js",
-              "ViewState": "AgIAABwAAAAAAAAAAAA4wD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-11T04:35:14.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml*",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Articulos\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T04:34:37.056Z",
+              "WhenOpened": "2024-11-11T17:27:33.134Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArticulosController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAcwLEAAABBAAAAAAAAAA==",
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\Slider.cs",
+              "RelativeDocumentMoniker": "..\\BlogCore.Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\Slider.cs",
+              "RelativeToolTip": "..\\BlogCore.Models\\Slider.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T03:10:44.924Z",
+              "WhenOpened": "2024-11-11T17:21:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwJUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:30:17.867Z",
               "EditorCaption": ""
             }
           ]

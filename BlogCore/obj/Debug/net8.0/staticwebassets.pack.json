@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\imagenes\\articulos\\6a4df464-902b-4460-8a32-481ed0b9ea48.jpg"
     },
     {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\4ef87a88-5461-4ea3-b08a-75eca2e9e7ce.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\4ef87a88-5461-4ea3-b08a-75eca2e9e7ce.jpeg"
+    },
+    {
       "Id": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\js\\articulos.js",
       "PackagePath": "staticwebassets\\js\\articulos.js"
     },
@@ -27,6 +31,10 @@
     {
       "Id": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",
