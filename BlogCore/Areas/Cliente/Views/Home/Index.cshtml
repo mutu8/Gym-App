@@ -1,8 +1,37 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model BlogCore.Models.Viewmodels.HomeVM
+@{
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row mt-1">
+    <div class="col-sn-12">
+        <h1 class="text-center text-dark bg-secondary py-1">Últimas noticias</h1>
+    </div>
 </div>
+
+@if (Model.ListaArticulos.Count() > 0)
+{
+    <hr />
+    <div class="row">
+        @foreach (var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
+        {
+            <div class="col-4">
+                <div class="card">
+                    <img src="@articulo.urlImagen" class="img-thumbnail" width="100%" />
+                    <div class="card-body">
+                        <h5 class="text-center">@articulo.Nombre</h5>
+                        <div class="d-flex justify-content-center">
+                            <a asp-action="Detalle" class="btn btn-success" style="border;10px" asp-route-id="@articulo.Id">
+                                Más información
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>Sin artículos disponibles</p>
+}

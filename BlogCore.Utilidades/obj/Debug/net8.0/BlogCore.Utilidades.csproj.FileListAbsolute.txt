@@ -21,3 +21,4 @@ C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll
+C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.sourcelink.json

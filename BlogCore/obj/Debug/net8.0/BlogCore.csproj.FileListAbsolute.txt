@@ -548,3 +548,6 @@ C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore\obj\Debug\net8.0\BlogCore.ge
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore\obj\Debug\net8.0\ref\BlogCore.dll
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Steven\Downloads\AaAaAaAa\BlogCore\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Steven\Downloads\AaAaAaAa\BlogCore\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Steven\Downloads\AaAaAaAa\BlogCore\obj\Debug\net8.0\BlogCore.sourcelink.json

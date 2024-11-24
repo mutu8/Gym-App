@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {}
+    "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
+    "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
         "projectName": "BlogCore.AccesoDatos",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\BlogCore.Models.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\BlogCore.Models.csproj"
+              "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\BlogCore.Models.csproj": {
+                "projectPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\BlogCore.Models.csproj"
               },
-              "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
+              "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
               }
             }
           }
@@ -88,21 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\BlogCore.Models.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\obj\\",
+        "projectPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\BlogCore.Models.csproj",
+        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -110,7 +117,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -155,21 +161,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+    "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "projectName": "BlogCore.Utilidades",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven\\Downloads\\AaAaAaAa\\BlogCore.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,7 +187,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -216,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

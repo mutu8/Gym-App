@@ -2060,18 +2060,12 @@
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
         },
         "runtime": {
-          "BlogCore.Models.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "BlogCore.Models.dll": {}
         }
       },
       "BlogCore.Utilidades/1.0.0": {
         "runtime": {
-          "BlogCore.Utilidades.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "BlogCore.Utilidades.dll": {}
         }
       }
     }
