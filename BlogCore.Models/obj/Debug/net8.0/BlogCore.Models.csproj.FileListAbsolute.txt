@@ -24,3 +24,16 @@ C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Models\obj\Debug\net8.0\ref\
 C:\Users\USUARIO\Downloads\MVC-APP\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
 C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
 C:\Users\Steven\Downloads\AaAaAaAa\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll

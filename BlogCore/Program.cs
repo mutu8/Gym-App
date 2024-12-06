@@ -1,6 +1,7 @@
 using BlogCore.AccesoDatos.Repository;
 using BlogCore.AccesoDatos.Repository.IRepository;
 using BlogCore.Data;
+using BlogCore.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,8 +13,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = false)
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultUI();
+
 builder.Services.AddControllersWithViews();
 
 //Agregar contenendor de trabajo al contenedor IoC de inyecci�n de dependencias

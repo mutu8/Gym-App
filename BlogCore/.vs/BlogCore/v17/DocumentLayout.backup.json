@@ -1,19 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E42F6D4-A0EF-485E-BB0F-F86E9ED4333D}|BlogCore.csproj|solutionrelative:areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{380F8525-28A7-42BE-859B-62C387238B70}|..\\BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\usuario\\downloads\\mvc-app\\gym-app\\blogcore.models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -21,47 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T17:27:33.134Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\Slider.cs",
-              "RelativeDocumentMoniker": "..\\BlogCore.Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore.Models\\Slider.cs",
-              "RelativeToolTip": "..\\BlogCore.Models\\Slider.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:21:05.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SlidersController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SlidersController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\MVC-APP\\Gym-App\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\SlidersController.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAUwJUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:30:17.867Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
