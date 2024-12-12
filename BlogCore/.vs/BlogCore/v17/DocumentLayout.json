@@ -42,8 +42,7 @@
               "RelativeToolTip": "Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T09:22:19.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:22:19.502Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T09:06:35.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:06:35.025Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-12T08:47:37.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T08:47:37.156Z"
             },
             {
               "$type": "Document",
@@ -79,7 +76,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAUwI8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwI8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T08:46:22.122Z",
               "EditorCaption": ""
