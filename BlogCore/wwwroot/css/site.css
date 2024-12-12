@@ -1,22 +1,132 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+    height: 100%;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+    html {
+        font-size: 16px;
+    }
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    /* Fondo con gradiente */
+    background: #ECE9E6; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #FFFFFF, #ECE9E6); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.container {
+    flex: 1;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Ajuste del tamaño de la tarjeta para que sea más flexible */
+.glowing-card {
+    position: relative;
+    width: 100%; /* Para que ocupe toda la columna */
+    max-width: 300px; /* Tamaño máximo */
+    height: auto; /* Permitir que la altura se ajuste al contenido */
+    background: rgb(0, 0, 0); /* Fondo negro */
+    background: linear-gradient(137deg, #2c3e50, #34495e, #0f2027); /* Gradiente con tonos oscuros similares a los de la tarjeta */
+    transition: 0.3s ease;
+    border-radius: 30px;
+    filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.5)); /* Sombra oscura */
+    overflow: hidden; /* Para evitar contenido desbordado */
+}
+
+    /* Hover effect - gradiente oscuro */
+    .glowing-card:hover {
+        filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.8)); /* Aumenta el brillo al hacer hover */
+        transform: scale(1.03); /* Agranda ligeramente, pero de forma más sutil */
+        background: linear-gradient(137deg, #34495e, #2c3e50, #0f2027); /* Gradiente de tonos más oscuros */
+        transition: transform 0.3s ease, filter 0.3s ease, background 0.3s ease; /* Suaviza la transición */
+    }
+
+    /* El pseudo-elemento ::after */
+    .glowing-card::after {
+        content: '';
+        background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+        position: absolute;
+        z-index: 0; /* Asegura que el contenido esté encima */
+        transition: 0.3s ease;
+        height: 98%;
+        width: 98%;
+        top: 1%;
+        left: 1%;
+        border-radius: 28px;
+    }
+
+    /* El contenido de la tarjeta */
+    .glowing-card img, .glowing-card .card-body {
+        position: relative;
+        z-index: 1; /* Asegura que el contenido esté encima del ::after */
+    }
+
+    /* Ajuste del texto dentro de la tarjeta */
+    .glowing-card h5 {
+        color: white; /* Color de texto visible */
+        margin: 10px 0;
+        font-size: 1rem;
+        text-align: center;
+        word-wrap: break-word;
+        word-break: break-word;
+        white-space: normal;
+    }
+
+/*Detalle articulo*/
+.card-body {
+    padding: 15px; /* Espaciado interno para mejor visualización */
+}
+
+.card-no-border {
+    border: none;
+    background-color: transparent;
+}
+
+.card-header-transparent {
+    background-color: transparent;
+}
+
+/*hover links*/
+a {
+    text-decoration: none;
+}
+/* <main-style> ============================ */
+.menu__link {
+    color: gray;
+    line-height: 2;
+    position: relative;
+}
+
+    .menu__link::before {
+        content: '';
+        width: 0;
+        height: 2px;
+        border-radius: 2px;
+        background-color: gray;
+        position: absolute;
+        bottom: -.25rem;
+        right: 0;
+        transition: right .4s, width .4s, left .4s;
+    }
+
+    .menu__link:hover::before {
+        width: 100%;
+        left: 0;
+    }
+

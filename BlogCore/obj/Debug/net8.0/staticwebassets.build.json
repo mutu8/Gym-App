@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RH/D4tLlh+pGZjjwyG1LrTppUOzMhvEOHZcT0A8I9xE=",
+  "Hash": "NSrICIDfP/Q0S1I1/Xb9k+10MNsiQDwIvHdpG87nafk=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "79cr9oqym4",
+      "Integrity": "NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1361,12 +1361,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\6a4df464-902b-4460-8a32-481ed0b9ea48.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\2c0462bc-2804-4a58-863d-20700a7eb6f0.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/articulos/6a4df464-902b-4460-8a32-481ed0b9ea48#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/articulos/2c0462bc-2804-4a58-863d-20700a7eb6f0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,19 +1375,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x9x0gcy3aa",
-      "Integrity": "i7cY12Ty8OKcHgqtrZuw1ddYwBccCcBUcQjTrrbby3U=",
+      "Fingerprint": "6e6p2gud47",
+      "Integrity": "YnETRw7VziLHk8e9DzGSO12LsdS633ZJD+go+bBWOyY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\6a4df464-902b-4460-8a32-481ed0b9ea48.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\2c0462bc-2804-4a58-863d-20700a7eb6f0.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\28604a69-420e-4e35-8101-d3196d8c5f83.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\51c9e41e-da7d-4000-9145-3c94717926dd.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/sliders/28604a69-420e-4e35-8101-d3196d8c5f83#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/articulos/51c9e41e-da7d-4000-9145-3c94717926dd#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1396,19 +1396,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7nydm2qly1",
-      "Integrity": "o+47Oc8DfkBN9DeTqaGL2Al4lpS0G4qfekSBXSsvFT4=",
+      "Fingerprint": "w95gw5tav9",
+      "Integrity": "tCK7aEDoT84+ew0i2LFO5ICWblhGDSCt5D8Zp+Rs9UY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\28604a69-420e-4e35-8101-d3196d8c5f83.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\51c9e41e-da7d-4000-9145-3c94717926dd.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\4e8f101e-8294-43ec-af80-a3a2e85bc0bd.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\e23c2d92-91e9-45d8-a95b-db34c38b449a.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/sliders/4e8f101e-8294-43ec-af80-a3a2e85bc0bd#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/articulos/e23c2d92-91e9-45d8-a95b-db34c38b449a#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1417,19 +1417,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tzud8t5yub",
-      "Integrity": "17VKTB987pj/nWq6XIIoxUDyR+G0CDnTe7g0TkbRyYA=",
+      "Fingerprint": "xcfq1bcg8e",
+      "Integrity": "QT3698gRguVVGjtmOPXoZkUDB24psaZ/o4LweHHml0E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\4e8f101e-8294-43ec-af80-a3a2e85bc0bd.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\e23c2d92-91e9-45d8-a95b-db34c38b449a.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\66b7d5d5-84c0-444c-bdad-bd02b70027b8.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\f31e4c6b-9340-4491-951f-e2a125768313.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/sliders/66b7d5d5-84c0-444c-bdad-bd02b70027b8#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/articulos/f31e4c6b-9340-4491-951f-e2a125768313#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1438,11 +1438,116 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wzy7uibz7b",
-      "Integrity": "7IKxqRaWtZNQ4RVl+Vx7JeT5lup0ar55PIDdAtEvmIk=",
+      "Fingerprint": "5f48heriai",
+      "Integrity": "YaGXUb3XO5wqRKg+Spxbd1FhEzF4YYaSqEx9L+m+fz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\66b7d5d5-84c0-444c-bdad-bd02b70027b8.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\f31e4c6b-9340-4491-951f-e2a125768313.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\35e8d23f-14fb-4860-ab77-c32df516121e.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/35e8d23f-14fb-4860-ab77-c32df516121e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49p8ba4ssu",
+      "Integrity": "KDtmgY2dFwOfp3CT3w/X1Lt2d2/6KAYg2smjQk/qXJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\35e8d23f-14fb-4860-ab77-c32df516121e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/7c45e6a6-f5f2-42fd-a256-049bb28b9a8c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgbu2x4zjt",
+      "Integrity": "cwSSUaPpyhD+IHZ1XC5uC/UY4scaLgkWBhto/zlEtZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/9642e8d9-ef04-4fe3-bbe2-dc45bae3c519#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9eqld2p516",
+      "Integrity": "H0Jlj3osUZXFjC2KQZYFvMnluXsPtP1GuMXvLnLkg4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\a7c0a0ee-c698-4afd-a10b-c8a274ee2186.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/a7c0a0ee-c698-4afd-a10b-c8a274ee2186#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "svfkomj1d4",
+      "Integrity": "mNKWoSQK/3/ntFdRyqelOoLcUGP4FLlkdZiJcFDgNp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\a7c0a0ee-c698-4afd-a10b-c8a274ee2186.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\d21998b4-7987-4feb-b0ed-e0aa897fab1b.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/d21998b4-7987-4feb-b0ed-e0aa897fab1b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yirqdn0v8v",
+      "Integrity": "JkndEgADJe2QAr9mri8Q0fxQPX1mxe33QycBdGAl0Bc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\d21998b4-7987-4feb-b0ed-e0aa897fab1b.jpg"
     },
     {
       "Identity": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\js\\articulos.js",
@@ -2913,7 +3018,7 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.79cr9oqym4.css",
       "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2923,7 +3028,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "3764"
         },
         {
           "Name": "Content-Type",
@@ -2931,11 +3036,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Wed, 11 Dec 2024 15:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2945,7 +3050,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "79cr9oqym4"
         },
         {
           "Name": "label",
@@ -2953,7 +3058,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk="
         }
       ]
     },
@@ -2968,7 +3073,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "3764"
         },
         {
           "Name": "Content-Type",
@@ -2976,11 +3081,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Wed, 11 Dec 2024 15:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2990,7 +3095,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk="
         }
       ]
     },
@@ -5297,8 +5402,8 @@
       ]
     },
     {
-      "Route": "imagenes/articulos/6a4df464-902b-4460-8a32-481ed0b9ea48.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\6a4df464-902b-4460-8a32-481ed0b9ea48.jpg",
+      "Route": "imagenes/articulos/2c0462bc-2804-4a58-863d-20700a7eb6f0.6e6p2gud47.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\2c0462bc-2804-4a58-863d-20700a7eb6f0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5307,7 +5412,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "395243"
+          "Value": "232688"
         },
         {
           "Name": "Content-Type",
@@ -5315,48 +5420,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i7cY12Ty8OKcHgqtrZuw1ddYwBccCcBUcQjTrrbby3U=\""
+          "Value": "\"YnETRw7VziLHk8e9DzGSO12LsdS633ZJD+go+bBWOyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-i7cY12Ty8OKcHgqtrZuw1ddYwBccCcBUcQjTrrbby3U="
-        }
-      ]
-    },
-    {
-      "Route": "imagenes/articulos/6a4df464-902b-4460-8a32-481ed0b9ea48.x9x0gcy3aa.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\6a4df464-902b-4460-8a32-481ed0b9ea48.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "395243"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"i7cY12Ty8OKcHgqtrZuw1ddYwBccCcBUcQjTrrbby3U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Tue, 10 Dec 2024 03:29:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5366,21 +5434,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x9x0gcy3aa"
+          "Value": "6e6p2gud47"
         },
         {
           "Name": "label",
-          "Value": "imagenes/articulos/6a4df464-902b-4460-8a32-481ed0b9ea48.jpg"
+          "Value": "imagenes/articulos/2c0462bc-2804-4a58-863d-20700a7eb6f0.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i7cY12Ty8OKcHgqtrZuw1ddYwBccCcBUcQjTrrbby3U="
+          "Value": "sha256-YnETRw7VziLHk8e9DzGSO12LsdS633ZJD+go+bBWOyY="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/28604a69-420e-4e35-8101-d3196d8c5f83.7nydm2qly1.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\28604a69-420e-4e35-8101-d3196d8c5f83.jpg",
+      "Route": "imagenes/articulos/2c0462bc-2804-4a58-863d-20700a7eb6f0.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\2c0462bc-2804-4a58-863d-20700a7eb6f0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5389,7 +5457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1671455"
+          "Value": "232688"
         },
         {
           "Name": "Content-Type",
@@ -5397,56 +5465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o+47Oc8DfkBN9DeTqaGL2Al4lpS0G4qfekSBXSsvFT4=\""
+          "Value": "\"YnETRw7VziLHk8e9DzGSO12LsdS633ZJD+go+bBWOyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7nydm2qly1"
-        },
-        {
-          "Name": "label",
-          "Value": "imagenes/sliders/28604a69-420e-4e35-8101-d3196d8c5f83.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-o+47Oc8DfkBN9DeTqaGL2Al4lpS0G4qfekSBXSsvFT4="
-        }
-      ]
-    },
-    {
-      "Route": "imagenes/sliders/28604a69-420e-4e35-8101-d3196d8c5f83.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\28604a69-420e-4e35-8101-d3196d8c5f83.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1671455"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"o+47Oc8DfkBN9DeTqaGL2Al4lpS0G4qfekSBXSsvFT4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Tue, 10 Dec 2024 03:29:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5456,13 +5479,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-o+47Oc8DfkBN9DeTqaGL2Al4lpS0G4qfekSBXSsvFT4="
+          "Value": "sha256-YnETRw7VziLHk8e9DzGSO12LsdS633ZJD+go+bBWOyY="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/4e8f101e-8294-43ec-af80-a3a2e85bc0bd.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\4e8f101e-8294-43ec-af80-a3a2e85bc0bd.jpg",
+      "Route": "imagenes/articulos/51c9e41e-da7d-4000-9145-3c94717926dd.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\51c9e41e-da7d-4000-9145-3c94717926dd.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5471,7 +5494,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4078991"
+          "Value": "317933"
         },
         {
           "Name": "Content-Type",
@@ -5479,11 +5502,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"17VKTB987pj/nWq6XIIoxUDyR+G0CDnTe7g0TkbRyYA=\""
+          "Value": "\"tCK7aEDoT84+ew0i2LFO5ICWblhGDSCt5D8Zp+Rs9UY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Tue, 10 Dec 2024 03:27:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5493,13 +5516,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-17VKTB987pj/nWq6XIIoxUDyR+G0CDnTe7g0TkbRyYA="
+          "Value": "sha256-tCK7aEDoT84+ew0i2LFO5ICWblhGDSCt5D8Zp+Rs9UY="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/4e8f101e-8294-43ec-af80-a3a2e85bc0bd.tzud8t5yub.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\4e8f101e-8294-43ec-af80-a3a2e85bc0bd.jpg",
+      "Route": "imagenes/articulos/51c9e41e-da7d-4000-9145-3c94717926dd.w95gw5tav9.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\51c9e41e-da7d-4000-9145-3c94717926dd.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5508,7 +5531,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4078991"
+          "Value": "317933"
         },
         {
           "Name": "Content-Type",
@@ -5516,11 +5539,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"17VKTB987pj/nWq6XIIoxUDyR+G0CDnTe7g0TkbRyYA=\""
+          "Value": "\"tCK7aEDoT84+ew0i2LFO5ICWblhGDSCt5D8Zp+Rs9UY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Tue, 10 Dec 2024 03:27:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5530,21 +5553,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tzud8t5yub"
+          "Value": "w95gw5tav9"
         },
         {
           "Name": "label",
-          "Value": "imagenes/sliders/4e8f101e-8294-43ec-af80-a3a2e85bc0bd.jpg"
+          "Value": "imagenes/articulos/51c9e41e-da7d-4000-9145-3c94717926dd.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-17VKTB987pj/nWq6XIIoxUDyR+G0CDnTe7g0TkbRyYA="
+          "Value": "sha256-tCK7aEDoT84+ew0i2LFO5ICWblhGDSCt5D8Zp+Rs9UY="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/66b7d5d5-84c0-444c-bdad-bd02b70027b8.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\66b7d5d5-84c0-444c-bdad-bd02b70027b8.jpg",
+      "Route": "imagenes/articulos/e23c2d92-91e9-45d8-a95b-db34c38b449a.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\e23c2d92-91e9-45d8-a95b-db34c38b449a.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5553,7 +5576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4323345"
+          "Value": "451210"
         },
         {
           "Name": "Content-Type",
@@ -5561,11 +5584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7IKxqRaWtZNQ4RVl+Vx7JeT5lup0ar55PIDdAtEvmIk=\""
+          "Value": "\"QT3698gRguVVGjtmOPXoZkUDB24psaZ/o4LweHHml0E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Tue, 10 Dec 2024 03:33:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5575,13 +5598,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7IKxqRaWtZNQ4RVl+Vx7JeT5lup0ar55PIDdAtEvmIk="
+          "Value": "sha256-QT3698gRguVVGjtmOPXoZkUDB24psaZ/o4LweHHml0E="
         }
       ]
     },
     {
-      "Route": "imagenes/sliders/66b7d5d5-84c0-444c-bdad-bd02b70027b8.wzy7uibz7b.jpg",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\66b7d5d5-84c0-444c-bdad-bd02b70027b8.jpg",
+      "Route": "imagenes/articulos/e23c2d92-91e9-45d8-a95b-db34c38b449a.xcfq1bcg8e.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\e23c2d92-91e9-45d8-a95b-db34c38b449a.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5590,7 +5613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4323345"
+          "Value": "451210"
         },
         {
           "Name": "Content-Type",
@@ -5598,11 +5621,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7IKxqRaWtZNQ4RVl+Vx7JeT5lup0ar55PIDdAtEvmIk=\""
+          "Value": "\"QT3698gRguVVGjtmOPXoZkUDB24psaZ/o4LweHHml0E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Nov 2024 16:38:19 GMT"
+          "Value": "Tue, 10 Dec 2024 03:33:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5612,15 +5635,507 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wzy7uibz7b"
+          "Value": "xcfq1bcg8e"
         },
         {
           "Name": "label",
-          "Value": "imagenes/sliders/66b7d5d5-84c0-444c-bdad-bd02b70027b8.jpg"
+          "Value": "imagenes/articulos/e23c2d92-91e9-45d8-a95b-db34c38b449a.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7IKxqRaWtZNQ4RVl+Vx7JeT5lup0ar55PIDdAtEvmIk="
+          "Value": "sha256-QT3698gRguVVGjtmOPXoZkUDB24psaZ/o4LweHHml0E="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/articulos/f31e4c6b-9340-4491-951f-e2a125768313.5f48heriai.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\f31e4c6b-9340-4491-951f-e2a125768313.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YaGXUb3XO5wqRKg+Spxbd1FhEzF4YYaSqEx9L+m+fz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:32:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5f48heriai"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/articulos/f31e4c6b-9340-4491-951f-e2a125768313.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YaGXUb3XO5wqRKg+Spxbd1FhEzF4YYaSqEx9L+m+fz4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/articulos/f31e4c6b-9340-4491-951f-e2a125768313.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\articulos\\f31e4c6b-9340-4491-951f-e2a125768313.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YaGXUb3XO5wqRKg+Spxbd1FhEzF4YYaSqEx9L+m+fz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:32:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YaGXUb3XO5wqRKg+Spxbd1FhEzF4YYaSqEx9L+m+fz4="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/35e8d23f-14fb-4860-ab77-c32df516121e.49p8ba4ssu.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\35e8d23f-14fb-4860-ab77-c32df516121e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KDtmgY2dFwOfp3CT3w/X1Lt2d2/6KAYg2smjQk/qXJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:21:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49p8ba4ssu"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/35e8d23f-14fb-4860-ab77-c32df516121e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KDtmgY2dFwOfp3CT3w/X1Lt2d2/6KAYg2smjQk/qXJ8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/35e8d23f-14fb-4860-ab77-c32df516121e.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\35e8d23f-14fb-4860-ab77-c32df516121e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KDtmgY2dFwOfp3CT3w/X1Lt2d2/6KAYg2smjQk/qXJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:21:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KDtmgY2dFwOfp3CT3w/X1Lt2d2/6KAYg2smjQk/qXJ8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwSSUaPpyhD+IHZ1XC5uC/UY4scaLgkWBhto/zlEtZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwSSUaPpyhD+IHZ1XC5uC/UY4scaLgkWBhto/zlEtZs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.tgbu2x4zjt.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwSSUaPpyhD+IHZ1XC5uC/UY4scaLgkWBhto/zlEtZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgbu2x4zjt"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/7c45e6a6-f5f2-42fd-a256-049bb28b9a8c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwSSUaPpyhD+IHZ1XC5uC/UY4scaLgkWBhto/zlEtZs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.9eqld2p516.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0Jlj3osUZXFjC2KQZYFvMnluXsPtP1GuMXvLnLkg4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9eqld2p516"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0Jlj3osUZXFjC2KQZYFvMnluXsPtP1GuMXvLnLkg4w="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\9642e8d9-ef04-4fe3-bbe2-dc45bae3c519.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H0Jlj3osUZXFjC2KQZYFvMnluXsPtP1GuMXvLnLkg4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H0Jlj3osUZXFjC2KQZYFvMnluXsPtP1GuMXvLnLkg4w="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/a7c0a0ee-c698-4afd-a10b-c8a274ee2186.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\a7c0a0ee-c698-4afd-a10b-c8a274ee2186.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mNKWoSQK/3/ntFdRyqelOoLcUGP4FLlkdZiJcFDgNp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:20:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mNKWoSQK/3/ntFdRyqelOoLcUGP4FLlkdZiJcFDgNp8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/a7c0a0ee-c698-4afd-a10b-c8a274ee2186.svfkomj1d4.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\a7c0a0ee-c698-4afd-a10b-c8a274ee2186.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mNKWoSQK/3/ntFdRyqelOoLcUGP4FLlkdZiJcFDgNp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:20:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "svfkomj1d4"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/a7c0a0ee-c698-4afd-a10b-c8a274ee2186.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mNKWoSQK/3/ntFdRyqelOoLcUGP4FLlkdZiJcFDgNp8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/d21998b4-7987-4feb-b0ed-e0aa897fab1b.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\d21998b4-7987-4feb-b0ed-e0aa897fab1b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkndEgADJe2QAr9mri8Q0fxQPX1mxe33QycBdGAl0Bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:21:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JkndEgADJe2QAr9mri8Q0fxQPX1mxe33QycBdGAl0Bc="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/d21998b4-7987-4feb-b0ed-e0aa897fab1b.yirqdn0v8v.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\imagenes\\sliders\\d21998b4-7987-4feb-b0ed-e0aa897fab1b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkndEgADJe2QAr9mri8Q0fxQPX1mxe33QycBdGAl0Bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 03:21:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yirqdn0v8v"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/d21998b4-7987-4feb-b0ed-e0aa897fab1b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JkndEgADJe2QAr9mri8Q0fxQPX1mxe33QycBdGAl0Bc="
         }
       ]
     },

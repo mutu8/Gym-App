@@ -1,8 +1,12 @@
 ﻿@page
 @model ConfirmEmailChangeModel
 @{
-    ViewData["Title"] = "Confirm email change";
+    ViewData["Title"] = "Confirmar cambio de correo electrónico";
 }
 
-<h1>@ViewData["Title"]</h1>
-<partial name="_StatusMessage" model="Model.StatusMessage" />
+<header class="text-center mt-5">
+    <h1 class="display-4 text-info">@ViewData["Title"]</h1>
+    <p class="lead text-muted">Por favor, confirma el cambio de tu correo electrónico para completar la actualización.</p>
+    <partial name="_StatusMessage" model="Model.StatusMessage" />
+    <a href="/" class="btn btn-primary mt-3">Volver al inicio</a>
+</header>

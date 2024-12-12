@@ -17,6 +17,7 @@ namespace BlogCore.Areas.Cliente.Controllers
             _contenedorTrabajo = contenedorTrabajo;
         }
 
+        //Primera version de page sin paginazion
         [HttpGet]
         public IActionResult Index()
         {
@@ -25,7 +26,7 @@ namespace BlogCore.Areas.Cliente.Controllers
                 Sliders = _contenedorTrabajo.Slider.GetAll(),
                 ListaArticulos = _contenedorTrabajo.Articulo.GetAll()
             };
-
+            //Para saber si estamos en home o no
             ViewBag.IsHome = true;  
             return View(homeVM);
         }
