@@ -322,7 +322,6 @@ C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\staticweb
 C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogCore.props
 C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.BlogCore.props
 C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\staticwebassets.pack.json
-C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\BlogCore.csproj.Up2Date
 C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\BlogCore.dll
 C:\Users\USUARIO\Downloads\Gym-App\Gym-App\BlogCore\obj\Release\net8.0\refint\BlogCore.dll
