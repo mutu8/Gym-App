@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NSrICIDfP/Q0S1I1/Xb9k+10MNsiQDwIvHdpG87nafk=",
+  "Hash": "KLX3EQTvaQqeISoS3JmF6AS+TySy4FGf0Q+/qlIGJMc=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "79cr9oqym4",
-      "Integrity": "NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk=",
+      "Fingerprint": "nz7jvh5wqg",
+      "Integrity": "M2JqNJRHN18KmeRXcI3u6Lzk8WJXePhvix3Qedg51lc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3018,51 +3018,6 @@
       ]
     },
     {
-      "Route": "css/site.79cr9oqym4.css",
-      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:46:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "79cr9oqym4"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -3073,7 +3028,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3764"
+          "Value": "7344"
         },
         {
           "Name": "Content-Type",
@@ -3081,11 +3036,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk=\""
+          "Value": "\"M2JqNJRHN18KmeRXcI3u6Lzk8WJXePhvix3Qedg51lc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:46:06 GMT"
+          "Value": "Thu, 12 Dec 2024 09:21:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3095,7 +3050,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NWDU5aIJ3Ea58e0yZRUThH6627d2Jaan2Mw877Ay3yk="
+          "Value": "sha256-M2JqNJRHN18KmeRXcI3u6Lzk8WJXePhvix3Qedg51lc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.nz7jvh5wqg.css",
+      "AssetFile": "C:\\Users\\USUARIO\\Downloads\\Gym-App\\Gym-App\\BlogCore\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2JqNJRHN18KmeRXcI3u6Lzk8WJXePhvix3Qedg51lc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:21:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nz7jvh5wqg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M2JqNJRHN18KmeRXcI3u6Lzk8WJXePhvix3Qedg51lc="
         }
       ]
     },
